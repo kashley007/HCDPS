@@ -20,7 +20,7 @@ class __TwigTemplate_01f90889cb8beae79939bfd41ccdfab5f556b849f4f8af496a8c2897777
 \t<div class=\"container\">
 \t\t<div class=\"row section_header\">
 \t\t\t<div class=\"col-xs-8\">
-\t\t\t\t<h3 class=\"section_title\">Featured Articles</h3>
+\t\t\t\t<h3 class=\"section_title\">Featured News</h3>
 \t\t\t</div>
 \t\t\t<div style=\"text-align: right\" class=\"col-xs-4\">
 \t\t\t\t<a class=\"view-all\" href=\"#\" target=\"_blank\">View all</a>
@@ -101,7 +101,7 @@ class __TwigTemplate_01f90889cb8beae79939bfd41ccdfab5f556b849f4f8af496a8c2897777
 \t<div class=\"container\">
 \t\t<div class=\"row section_header\">
 \t\t\t<div class=\"col-xs-8\">
-\t\t\t\t<h3 class=\"section_title\">Featured Articles</h3>
+\t\t\t\t<h3 class=\"section_title\">Featured News</h3>
 \t\t\t</div>
 \t\t\t<div style=\"text-align: right\" class=\"col-xs-4\">
 \t\t\t\t<a class=\"view-all\" href=\"#\" target=\"_blank\">View all</a>

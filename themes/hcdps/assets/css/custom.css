@@ -620,6 +620,9 @@ footer {
     color: #fff;
     padding: 8px 20px 8px 20px;
 }
+#apply:hover{
+  opacity: 0.8;
+}
 html{
 
     height: 100%;

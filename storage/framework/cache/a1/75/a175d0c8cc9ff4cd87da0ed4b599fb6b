@@ -1,4 +1,4 @@
-1495979099a:1:{s:15:"site/footer.htm";a:5:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:3698:"
+1495984717a:1:{s:15:"site/footer.htm";a:5:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:3799:"
 <div class="container">
 
     <div class="row">
@@ -54,10 +54,12 @@
             <div class="footer-col">
                 <h3>Site</h3>
                 <ul class="site-list">
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Events</a></li>
                     <li><a href="#">Careers</a></li>
+                    <li><a href="#">Emergency Management</a></li>
+                    <li><a href="#">Events</a></li>
                     <li><a href="#">External Links</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Training</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->
@@ -69,7 +71,7 @@
                 </p>
                 <form role="form" class="subscribe-form">
                     <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Enter email to subscribe">
+                        <input type="text" class="form-control" placeholder="Email">
                         <span class="input-group-btn">
                             <button class="btn  btn-theme-dark btn-lg" type="submit">Ok</button>
                         </span>
@@ -80,7 +82,7 @@
 
     </div>
 </div>
-       ";s:5:"mtime";i:1495938508;s:6:"markup";s:3689:"<div class="container">
+       ";s:5:"mtime";i:1495982200;s:6:"markup";s:3790:"<div class="container">
 
     <div class="row">
         <div class="col-md-3 col-sm-6 margin30">
@@ -135,10 +137,12 @@
             <div class="footer-col">
                 <h3>Site</h3>
                 <ul class="site-list">
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Events</a></li>
                     <li><a href="#">Careers</a></li>
+                    <li><a href="#">Emergency Management</a></li>
+                    <li><a href="#">Events</a></li>
                     <li><a href="#">External Links</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Training</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->
@@ -150,7 +154,7 @@
                 </p>
                 <form role="form" class="subscribe-form">
                     <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Enter email to subscribe">
+                        <input type="text" class="form-control" placeholder="Email">
                         <span class="input-group-btn">
                             <button class="btn  btn-theme-dark btn-lg" type="submit">Ok</button>
                         </span>

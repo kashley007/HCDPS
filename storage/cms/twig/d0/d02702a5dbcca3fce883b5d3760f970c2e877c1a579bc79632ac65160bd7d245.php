@@ -82,6 +82,14 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
         echo "\">Become a Volunteer</a></li>
 \t                <li class=\"";
         // line 55
+        if (($this->getAttribute($this->getAttribute(($context["this"] ?? null), "page", array()), "id", array()) == "education")) {
+            echo "active";
+        }
+        echo "\"><a href=\"";
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("education");
+        echo "\">Training</a></li>
+\t                <li class=\"";
+        // line 56
         if (($this->getAttribute($this->getAttribute(($context["this"] ?? null), "page", array()), "id", array()) == "emergency")) {
             echo "active";
         }
@@ -89,7 +97,7 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("emergency");
         echo "\">Emergency Management</a></li>
 \t                <li class=\"";
-        // line 56
+        // line 57
         if (($this->getAttribute($this->getAttribute(($context["this"] ?? null), "page", array()), "id", array()) == "about")) {
             echo "active";
         }
@@ -97,7 +105,7 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("about");
         echo "\">About HCDPS</a></li>
 \t                <li class=\"";
-        // line 57
+        // line 58
         if (($this->getAttribute($this->getAttribute(($context["this"] ?? null), "page", array()), "id", array()) == "contact")) {
             echo "active";
         }
@@ -111,12 +119,12 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
 </nav>
 
 ";
-        // line 64
+        // line 65
         if (($this->getAttribute($this->getAttribute(($context["this"] ?? null), "page", array()), "id", array()) == "home")) {
-            // line 65
+            // line 66
             echo "<div id=\"video_background\" style=\"width: 100%; height: 600px;\"
   data-vide-bg=\"mp4: ";
-            // line 66
+            // line 67
             echo $this->env->getExtension('Cms\Twig\Extension')->themeFilter("assets/video/background/combined.mp4");
             echo ", poster: ";
             echo $this->env->getExtension('Cms\Twig\Extension')->themeFilter("assets/video/background/header_video_poster.jpg");
@@ -139,7 +147,7 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
 
     public function getDebugInfo()
     {
-        return array (  120 => 66,  117 => 65,  115 => 64,  101 => 57,  93 => 56,  85 => 55,  77 => 54,  69 => 49,  19 => 1,);
+        return array (  128 => 67,  125 => 66,  123 => 65,  109 => 58,  101 => 57,  93 => 56,  85 => 55,  77 => 54,  69 => 49,  19 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -206,6 +214,7 @@ class __TwigTemplate_9cd1c40f068e9c0815c84cecf340f88ee39673f02a571e0e789d96d39c0
 \t            <ul class=\"nav navbar-nav\">
 \t                <li class=\"separator hidden-xs\"></li>
 \t                <li class=\"{% if this.page.id == 'volunteer' %}active{% endif %}\"><a href=\"{{ 'volunteer'|page }}\">Become a Volunteer</a></li>
+\t                <li class=\"{% if this.page.id == 'education' %}active{% endif %}\"><a href=\"{{ 'education'|page }}\">Training</a></li>
 \t                <li class=\"{% if this.page.id == 'emergency' %}active{% endif %}\"><a href=\"{{ 'emergency'|page }}\">Emergency Management</a></li>
 \t                <li class=\"{% if this.page.id == 'about' %}active{% endif %}\"><a href=\"{{ 'about'|page }}\">About HCDPS</a></li>
 \t                <li class=\"{% if this.page.id == 'contact' %}active{% endif %}\"><a href=\"{{ 'contact'|page }}\">Contact Us</a></li>

@@ -1,4 +1,4 @@
-1495979099a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:3644:"
+1495984717a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:3778:"
 <div class="top-bar">
 	<div class="container">
 		<div class="row">
@@ -53,6 +53,7 @@
 	            <ul class="nav navbar-nav">
 	                <li class="separator hidden-xs"></li>
 	                <li class="{% if this.page.id == 'volunteer' %}active{% endif %}"><a href="{{ 'volunteer'|page }}">Become a Volunteer</a></li>
+	                <li class="{% if this.page.id == 'education' %}active{% endif %}"><a href="{{ 'education'|page }}">Training</a></li>
 	                <li class="{% if this.page.id == 'emergency' %}active{% endif %}"><a href="{{ 'emergency'|page }}">Emergency Management</a></li>
 	                <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">About HCDPS</a></li>
 	                <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact Us</a></li>
@@ -67,7 +68,7 @@
   data-vide-bg="mp4: {{ 'assets/video/background/combined.mp4'|theme }}, poster: {{ 'assets/video/background/header_video_poster.jpg' |theme}}"
   data-vide-options="posterType: jpg, loop: true, muted: true, position: 50% 50%">
 </div>
-{% endif %}";s:5:"mtime";i:1495923104;s:6:"markup";s:3643:"<div class="top-bar">
+{% endif %}";s:5:"mtime";i:1495982169;s:6:"markup";s:3777:"<div class="top-bar">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-5 hidden-xs">
@@ -121,6 +122,7 @@
 	            <ul class="nav navbar-nav">
 	                <li class="separator hidden-xs"></li>
 	                <li class="{% if this.page.id == 'volunteer' %}active{% endif %}"><a href="{{ 'volunteer'|page }}">Become a Volunteer</a></li>
+	                <li class="{% if this.page.id == 'education' %}active{% endif %}"><a href="{{ 'education'|page }}">Training</a></li>
 	                <li class="{% if this.page.id == 'emergency' %}active{% endif %}"><a href="{{ 'emergency'|page }}">Emergency Management</a></li>
 	                <li class="{% if this.page.id == 'about' %}active{% endif %}"><a href="{{ 'about'|page }}">About HCDPS</a></li>
 	                <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Contact Us</a></li>

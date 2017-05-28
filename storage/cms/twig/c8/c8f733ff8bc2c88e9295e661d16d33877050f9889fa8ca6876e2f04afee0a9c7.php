@@ -71,10 +71,12 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
             <div class=\"footer-col\">
                 <h3>Site</h3>
                 <ul class=\"site-list\">
-                    <li><a href=\"#\">News</a></li>
-                    <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">Careers</a></li>
+                    <li><a href=\"#\">Emergency Management</a></li>
+                    <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">External Links</a></li>
+                    <li><a href=\"#\">News</a></li>
+                    <li><a href=\"#\">Training</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->
@@ -86,7 +88,7 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
                 </p>
                 <form role=\"form\" class=\"subscribe-form\">
                     <div class=\"input-group\">
-                        <input type=\"text\" class=\"form-control\" placeholder=\"Enter email to subscribe\">
+                        <input type=\"text\" class=\"form-control\" placeholder=\"Email\">
                         <span class=\"input-group-btn\">
                             <button class=\"btn  btn-theme-dark btn-lg\" type=\"submit\">Ok</button>
                         </span>
@@ -174,10 +176,12 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
             <div class=\"footer-col\">
                 <h3>Site</h3>
                 <ul class=\"site-list\">
-                    <li><a href=\"#\">News</a></li>
-                    <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">Careers</a></li>
+                    <li><a href=\"#\">Emergency Management</a></li>
+                    <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">External Links</a></li>
+                    <li><a href=\"#\">News</a></li>
+                    <li><a href=\"#\">Training</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->
@@ -189,7 +193,7 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
                 </p>
                 <form role=\"form\" class=\"subscribe-form\">
                     <div class=\"input-group\">
-                        <input type=\"text\" class=\"form-control\" placeholder=\"Enter email to subscribe\">
+                        <input type=\"text\" class=\"form-control\" placeholder=\"Email\">
                         <span class=\"input-group-btn\">
                             <button class=\"btn  btn-theme-dark btn-lg\" type=\"submit\">Ok</button>
                         </span>
