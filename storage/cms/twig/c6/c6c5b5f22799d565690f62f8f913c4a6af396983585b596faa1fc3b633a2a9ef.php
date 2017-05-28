@@ -17,10 +17,10 @@ class __TwigTemplate_1082e4b99cdf1d6f6395123f86cfc5cf19cb3e093da1b3cb18c469d18fa
     {
         // line 1
         echo "<div class=\"row section_header\">
-\t<div class=\"col-sm-6\">
+\t<div class=\"col-xs-6\">
 \t\t<h3 id=\"event_title\" class=\"section_title\">Upcoming Events</h3>
 \t</div>
-\t<div style=\"text-align: right\" class=\"col-sm-6\">
+\t<div style=\"text-align: right\" class=\"col-xs-6\">
 \t\t<a id=\"event_view_all\" class=\"view-all\" href=\"#\" target=\"_blank\">View all</a>
 \t</div>
 </div>
@@ -110,10 +110,10 @@ class __TwigTemplate_1082e4b99cdf1d6f6395123f86cfc5cf19cb3e093da1b3cb18c469d18fa
     public function getSourceContext()
     {
         return new Twig_Source("<div class=\"row section_header\">
-\t<div class=\"col-sm-6\">
+\t<div class=\"col-xs-6\">
 \t\t<h3 id=\"event_title\" class=\"section_title\">Upcoming Events</h3>
 \t</div>
-\t<div style=\"text-align: right\" class=\"col-sm-6\">
+\t<div style=\"text-align: right\" class=\"col-xs-6\">
 \t\t<a id=\"event_view_all\" class=\"view-all\" href=\"#\" target=\"_blank\">View all</a>
 \t</div>
 </div>

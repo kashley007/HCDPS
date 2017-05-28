@@ -1,11 +1,11 @@
-1495936210a:1:{s:13:"site/news.htm";a:5:{s:8:"fileName";s:13:"site/news.htm";s:7:"content";s:2121:"
+1495938986a:1:{s:13:"site/news.htm";a:5:{s:8:"fileName";s:13:"site/news.htm";s:7:"content";s:2121:"
 <div id="news">
 	<div class="container">
 		<div class="row section_header">
-			<div class="col-sm-6">
+			<div class="col-xs-8">
 				<h3 class="section_title">Featured Articles</h3>
 			</div>
-			<div style="text-align: right" class="col-sm-6">
+			<div style="text-align: right" class="col-xs-4">
 				<a class="view-all" href="#" target="_blank">View all</a>
 			</div>
 		</div>
@@ -40,13 +40,13 @@
 			</div>
 		</div>
 	</div>
-</div>";s:5:"mtime";i:1495931898;s:6:"markup";s:2120:"<div id="news">
+</div>";s:5:"mtime";i:1495936973;s:6:"markup";s:2120:"<div id="news">
 	<div class="container">
 		<div class="row section_header">
-			<div class="col-sm-6">
+			<div class="col-xs-8">
 				<h3 class="section_title">Featured Articles</h3>
 			</div>
-			<div style="text-align: right" class="col-sm-6">
+			<div style="text-align: right" class="col-xs-4">
 				<a class="view-all" href="#" target="_blank">View all</a>
 			</div>
 		</div>

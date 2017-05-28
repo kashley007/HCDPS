@@ -586,4 +586,25 @@ footer {
 	text-decoration: none;
 	color: #fff;
 }
-
+#volunteer{
+	background: #d5d5d5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+#volunteer-today{
+	font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#opportunites{
+	font-size: 18px;
+}
+#apply{
+	font-size: 20px;
+    border-radius: 6px;
+    background: #213F6E;
+    border: none;
+    color: #fff;
+    padding: 8px 20px 8px 20px;
+}

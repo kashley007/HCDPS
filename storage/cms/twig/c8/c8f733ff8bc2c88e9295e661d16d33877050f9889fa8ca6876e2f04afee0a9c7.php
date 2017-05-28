@@ -74,7 +74,7 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
                     <li><a href=\"#\">News</a></li>
                     <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">Careers</a></li>
-                    <li><a href=\"#\">Volunteer</a></li>
+                    <li><a href=\"#\">External Links</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->
@@ -177,7 +177,7 @@ class __TwigTemplate_43ffb63f233c9d49e7234721a54dea5c4a8bf4b4a21507847ecc50ee2a6
                     <li><a href=\"#\">News</a></li>
                     <li><a href=\"#\">Events</a></li>
                     <li><a href=\"#\">Careers</a></li>
-                    <li><a href=\"#\">Volunteer</a></li>
+                    <li><a href=\"#\">External Links</a></li>
                 </ul>
             </div>                        
         </div><!--footer col-->

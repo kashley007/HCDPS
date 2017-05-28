@@ -47,6 +47,15 @@ class __TwigTemplate_e4a957560ea620326f87dd3c9f8525fdf2b3b9e07bc2309bc12adf78220
         // line 15
         echo "\t\t</div>
 \t</div>
+</div>
+<div id=\"volunteer\">
+\t<div class=\"container\">
+\t\t<div class=\"row\">
+\t\t\t<p id=\"volunteer-today\">You Can Make A Difference - Volunteer Today!</p>
+\t\t\t<p id=\"opportunites\">With 5 EMS Agencies and 8 Fire Departments there are endless opportunities for you to make a difference in Henry County!</p>
+\t\t\t<button id=\"apply\" name=\"button\">Apply Now</button>
+\t\t</div>
+\t</div>
 </div>";
     }
 
@@ -89,6 +98,15 @@ class __TwigTemplate_e4a957560ea620326f87dd3c9f8525fdf2b3b9e07bc2309bc12adf78220
 \t\t</div>
 \t\t<div class=\"col-sm-12 col-md-6\">
 \t\t\t{% partial 'site/twitter' %}
+\t\t</div>
+\t</div>
+</div>
+<div id=\"volunteer\">
+\t<div class=\"container\">
+\t\t<div class=\"row\">
+\t\t\t<p id=\"volunteer-today\">You Can Make A Difference - Volunteer Today!</p>
+\t\t\t<p id=\"opportunites\">With 5 EMS Agencies and 8 Fire Departments there are endless opportunities for you to make a difference in Henry County!</p>
+\t\t\t<button id=\"apply\" name=\"button\">Apply Now</button>
 \t\t</div>
 \t</div>
 </div>", "/var/www/html/hcdps/themes/hcdps/pages/home.htm", "");
