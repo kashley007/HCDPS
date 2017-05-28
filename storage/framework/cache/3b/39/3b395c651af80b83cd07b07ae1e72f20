@@ -1,0 +1,84 @@
+1495936210a:1:{s:13:"site/news.htm";a:5:{s:8:"fileName";s:13:"site/news.htm";s:7:"content";s:2121:"
+<div id="news">
+	<div class="container">
+		<div class="row section_header">
+			<div class="col-sm-6">
+				<h3 class="section_title">Featured Articles</h3>
+			</div>
+			<div style="text-align: right" class="col-sm-6">
+				<a class="view-all" href="#" target="_blank">View all</a>
+			</div>
+		</div>
+		<div id="news_slide_show" class="row multiple-items">
+			<div class="slide">
+				<img src="{{ 'assets/images/smokealarms.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">Smoke Alarms Save Lives</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/warehouse.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">American Furniture Fire</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/home-fire-safety.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">What To Do if a Fire Starts</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/home-recovery.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">Recover After a Home Fire</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>";s:5:"mtime";i:1495931898;s:6:"markup";s:2120:"<div id="news">
+	<div class="container">
+		<div class="row section_header">
+			<div class="col-sm-6">
+				<h3 class="section_title">Featured Articles</h3>
+			</div>
+			<div style="text-align: right" class="col-sm-6">
+				<a class="view-all" href="#" target="_blank">View all</a>
+			</div>
+		</div>
+		<div id="news_slide_show" class="row multiple-items">
+			<div class="slide">
+				<img src="{{ 'assets/images/smokealarms.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">Smoke Alarms Save Lives</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/warehouse.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">American Furniture Fire</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/home-fire-safety.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">What To Do if a Fire Starts</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+			<div class="slide">
+				<img src="{{ 'assets/images/home-recovery.jpg'|theme }}">
+				<div class="article">
+					<h2 class="title">Recover After a Home Fire</h2>
+					<p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.<a>Read More</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>";s:4:"code";N;}}

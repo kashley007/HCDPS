@@ -1,0 +1,13 @@
+1495936210a:1:{s:16:"site/twitter.htm";a:6:{s:8:"fileName";s:16:"site/twitter.htm";s:7:"content";s:402:"[embedTimeline]
+tweet-limit = 5
+aria-polite = "polite"
+chrome = "nofooter transparent"
+width = 520
+height = 600
+theme = "light"
+dnt = 0
+lang = "en"
+==
+
+
+<a class="twitter-timeline" data-chrome="noheader nofooter noborders transparent" data-aria-polite="assertive" data-tweet-limit="1" href="https://twitter.com/HCDPS"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>";s:5:"mtime";i:1495933543;s:6:"markup";s:249:"<a class="twitter-timeline" data-chrome="noheader nofooter noborders transparent" data-aria-polite="assertive" data-tweet-limit="1" href="https://twitter.com/HCDPS"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>";s:4:"code";N;s:13:"embedTimeline";a:8:{s:11:"tweet-limit";s:1:"5";s:11:"aria-polite";s:6:"polite";s:6:"chrome";s:20:"nofooter transparent";s:5:"width";s:3:"520";s:6:"height";s:3:"600";s:5:"theme";s:5:"light";s:3:"dnt";s:1:"0";s:4:"lang";s:2:"en";}}}
