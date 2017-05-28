@@ -16,7 +16,7 @@ class __TwigTemplate_414fc6a73cbb654ba6290efc75fd622d708934f53c43e558bdea3ac071b
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        echo "<h1> Volunteer <h1>";
+        echo "<h1> Volunteer </h1>";
     }
 
     public function getTemplateName()
@@ -39,6 +39,6 @@ class __TwigTemplate_414fc6a73cbb654ba6290efc75fd622d708934f53c43e558bdea3ac071b
 
     public function getSourceContext()
     {
-        return new Twig_Source("<h1> Volunteer <h1>", "/var/www/html/hcdps/themes/hcdps/pages/volunteer.htm", "");
+        return new Twig_Source("<h1> Volunteer </h1>", "/var/www/html/hcdps/themes/hcdps/pages/volunteer.htm", "");
     }
 }

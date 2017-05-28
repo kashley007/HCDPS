@@ -21,7 +21,7 @@ description = "Default layout"
         {% styles %}
     </head>
     <body>
-
+        
         <!-- Header -->
         <header id="layout-header">
             {% partial 'site/header' %}
@@ -31,7 +31,7 @@ description = "Default layout"
         <section id="layout-content">
             {% page %}
         </section>
-
+        
         <!-- Footer -->
         <footer id="layout-footer">
             {% partial 'site/footer' %}
@@ -48,6 +48,7 @@ description = "Default layout"
         <script>
             $(document).ready(function(){
                 $("#layout-nav").sticky({topSpacing:0});
+                $('#news_slide_show').fadeIn('slow');
                 $('.multiple-items').slick({
                     infinite: true,
                     slidesToShow: 2,
@@ -61,6 +62,6 @@ description = "Default layout"
         </script>
         {% framework extras %}
         {% scripts %}
-
+        
     </body>
 </html>

@@ -85,7 +85,6 @@ class __TwigTemplate_1082e4b99cdf1d6f6395123f86cfc5cf19cb3e093da1b3cb18c469d18fa
 \t\t\t</a>
 \t\t</div>
 \t</div>
-
 </div>";
     }
 
@@ -178,7 +177,6 @@ class __TwigTemplate_1082e4b99cdf1d6f6395123f86cfc5cf19cb3e093da1b3cb18c469d18fa
 \t\t\t</a>
 \t\t</div>
 \t</div>
-
 </div>", "/var/www/html/hcdps/themes/hcdps/partials/site/events.htm", "");
     }
 }

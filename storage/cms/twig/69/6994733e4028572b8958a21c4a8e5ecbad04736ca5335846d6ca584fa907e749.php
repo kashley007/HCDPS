@@ -71,7 +71,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         // line 20
         echo "    </head>
     <body>
-
+        
         <!-- Header -->
         <header id=\"layout-header\">
             ";
@@ -89,7 +89,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         echo $this->env->getExtension('CMS')->pageFunction();
         // line 31
         echo "        </section>
-
+        
         <!-- Footer -->
         <footer id=\"layout-footer\">
             ";
@@ -129,6 +129,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         <script>
             \$(document).ready(function(){
                 \$(\"#layout-nav\").sticky({topSpacing:0});
+                \$('#news_slide_show').fadeIn('slow');
                 \$('.multiple-items').slick({
                     infinite: true,
                     slidesToShow: 2,
@@ -141,19 +142,19 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
 
         </script>
         ";
-        // line 60
+        // line 61
         echo '<script src="'. Request::getBasePath()
                 .'/modules/system/assets/js/framework.js"></script>'.PHP_EOL;
         echo '<script src="'. Request::getBasePath()
                     .'/modules/system/assets/js/framework.extras.js"></script>'.PHP_EOL;
         echo '<link rel="stylesheet" property="stylesheet" href="'. Request::getBasePath()
                     .'/modules/system/assets/css/framework.extras.css">'.PHP_EOL;
-        // line 61
+        // line 62
         echo "        ";
         echo $this->env->getExtension('CMS')->assetsFunction('js');
         echo $this->env->getExtension('CMS')->displayBlock('scripts');
-        // line 62
-        echo "
+        // line 63
+        echo "        
     </body>
 </html>";
     }
@@ -170,7 +171,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
 
     public function getDebugInfo()
     {
-        return array (  156 => 62,  152 => 61,  145 => 60,  126 => 44,  122 => 43,  118 => 42,  114 => 41,  110 => 40,  106 => 39,  101 => 36,  97 => 35,  91 => 31,  89 => 30,  83 => 26,  79 => 25,  72 => 20,  69 => 19,  64 => 17,  60 => 16,  56 => 15,  52 => 14,  48 => 13,  44 => 12,  40 => 11,  33 => 7,  29 => 6,  25 => 5,  19 => 1,);
+        return array (  157 => 63,  153 => 62,  146 => 61,  126 => 44,  122 => 43,  118 => 42,  114 => 41,  110 => 40,  106 => 39,  101 => 36,  97 => 35,  91 => 31,  89 => 30,  83 => 26,  79 => 25,  72 => 20,  69 => 19,  64 => 17,  60 => 16,  56 => 15,  52 => 14,  48 => 13,  44 => 12,  40 => 11,  33 => 7,  29 => 6,  25 => 5,  19 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -204,7 +205,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         {% styles %}
     </head>
     <body>
-
+        
         <!-- Header -->
         <header id=\"layout-header\">
             {% partial 'site/header' %}
@@ -214,7 +215,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         <section id=\"layout-content\">
             {% page %}
         </section>
-
+        
         <!-- Footer -->
         <footer id=\"layout-footer\">
             {% partial 'site/footer' %}
@@ -231,6 +232,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         <script>
             \$(document).ready(function(){
                 \$(\"#layout-nav\").sticky({topSpacing:0});
+                \$('#news_slide_show').fadeIn('slow');
                 \$('.multiple-items').slick({
                     infinite: true,
                     slidesToShow: 2,
@@ -244,7 +246,7 @@ class __TwigTemplate_8de41de5012bf28626fc5c45e1e38b15024b62b9d09ae56ae9bbb2fe085
         </script>
         {% framework extras %}
         {% scripts %}
-
+        
     </body>
 </html>", "/var/www/html/hcdps/themes/hcdps/layouts/default.htm", "");
     }

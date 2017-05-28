@@ -1,4 +1,4 @@
-1495938986a:1:{s:15:"site/events.htm";a:5:{s:8:"fileName";s:15:"site/events.htm";s:7:"content";s:1692:"
+1495979099a:1:{s:15:"site/events.htm";a:5:{s:8:"fileName";s:15:"site/events.htm";s:7:"content";s:1691:"
 <div class="row section_header">
 	<div class="col-xs-6">
 		<h3 id="event_title" class="section_title">Upcoming Events</h3>
@@ -68,8 +68,7 @@
 			</a>
 		</div>
 	</div>
-
-</div>";s:5:"mtime";i:1495936903;s:6:"markup";s:1691:"<div class="row section_header">
+</div>";s:5:"mtime";i:1495950856;s:6:"markup";s:1690:"<div class="row section_header">
 	<div class="col-xs-6">
 		<h3 id="event_title" class="section_title">Upcoming Events</h3>
 	</div>
@@ -138,5 +137,4 @@
 			</a>
 		</div>
 	</div>
-
 </div>";s:4:"code";N;}}

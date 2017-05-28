@@ -1,4 +1,4 @@
-1495938986a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2483:"description = "Default layout"
+1495979218a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2561:"description = "Default layout"
 ==
 <!DOCTYPE html>
 <html>
@@ -21,7 +21,7 @@
         {% styles %}
     </head>
     <body>
-
+        
         <!-- Header -->
         <header id="layout-header">
             {% partial 'site/header' %}
@@ -31,7 +31,7 @@
         <section id="layout-content">
             {% page %}
         </section>
-
+        
         <!-- Footer -->
         <footer id="layout-footer">
             {% partial 'site/footer' %}
@@ -48,6 +48,7 @@
         <script>
             $(document).ready(function(){
                 $("#layout-nav").sticky({topSpacing:0});
+                $('#news_slide_show').fadeIn('slow');
                 $('.multiple-items').slick({
                     infinite: true,
                     slidesToShow: 2,
@@ -61,10 +62,10 @@
         </script>
         {% framework extras %}
         {% scripts %}
-
+        
     </body>
 </html>
-";s:5:"mtime";i:1495916544;s:6:"markup";s:2448:"<!DOCTYPE html>
+";s:5:"mtime";i:1495977988;s:6:"markup";s:2526:"<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -85,7 +86,7 @@
         {% styles %}
     </head>
     <body>
-
+        
         <!-- Header -->
         <header id="layout-header">
             {% partial 'site/header' %}
@@ -95,7 +96,7 @@
         <section id="layout-content">
             {% page %}
         </section>
-
+        
         <!-- Footer -->
         <footer id="layout-footer">
             {% partial 'site/footer' %}
@@ -112,6 +113,7 @@
         <script>
             $(document).ready(function(){
                 $("#layout-nav").sticky({topSpacing:0});
+                $('#news_slide_show').fadeIn('slow');
                 $('.multiple-items').slick({
                     infinite: true,
                     slidesToShow: 2,
@@ -125,6 +127,6 @@
         </script>
         {% framework extras %}
         {% scripts %}
-
+        
     </body>
 </html>";s:4:"code";N;s:11:"description";s:14:"Default layout";}}
